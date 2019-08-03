@@ -1,0 +1,1 @@
+This repo is to be used for recreating the google homepage. This is a mini project and a skills showcase of what I have learned so far!
