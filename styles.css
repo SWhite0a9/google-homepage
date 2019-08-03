@@ -1,12 +1,25 @@
 body{
 	font-family:Arial, sans-serif;
+	font-size: 13px;
 }
 
 a{
-	color: rgba(0,0,0,0.87);
+	color: rgba(0,0,0, .87);
 	text-decoration: none;
 }
 
 .container{
 	display: inline-flex;
+}
+
+.left-side-items{
+	margin: 15px 0 0 2px ;
+}
+
+.left-side{
+	padding: 0px 0px 0px 15px;
+}
+
+.right-side{
+	
 }
